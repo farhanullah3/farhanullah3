@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/farhanuallah3">
-    <img src="https://img.shields.io/github/followers/farhanuallah3?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  <a href="https://github.com/farhanullah3">
+    <img src="https://img.shields.io/github/followers/farhanullah3?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  <a href="https://github.com/farhanuallah3">
-    <img src="https://img.shields.io/github/stars/farhanuallah3?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+  <a href="https://github.com/farhanullah3">
+    <img src="https://img.shields.io/github/stars/farhanullah3?label=Stars&style=for-the-badge&logo=github&color=yellow" />
   </a>
   <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -48,7 +48,7 @@ React.js                █████████████░░░░░�
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🐍 Programming
 
@@ -62,13 +62,13 @@ React.js                █████████████░░░░░�
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-**Learning:**
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow/Keras`
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `GenAI` · `Agentic AI`
+**Currently learning:** Machine Learning · Deep Learning · Computer Vision · Generative AI · Agentic AI
 
 ### 🧠 Generative & Agentic AI
 
-`LLMs` · `Prompt Engineering` · `RAG` · `AI Agents` · `Agentic AI` · `n8n` · `MCP`
+`LLMs` · `Prompt Engineering` · `RAG` · `AI Agents` · `n8n` · `MCP` · `Ollama`
 
 ### 🌐 Web Development
 
@@ -86,59 +86,70 @@ React.js                █████████████░░░░░�
 
 ---
 
-# 📌 Featured Work
+## 🔬 Areas of Interest
+
+| 🤖 Artificial Intelligence | 🧠 Machine Learning |
+| :------------------------: | :-----------------: |
+|        Generative AI       | Predictive Modeling |
+|      LLM Applications      |    Classification   |
+|          AI Agents         |      Regression     |
+|         Agentic AI         |   Model Evaluation  |
+
+|  👁️ Computer Vision |       📊 Data       |
+| :------------------: | :-----------------: |
+|         CNNs         |    Data Analysis    |
+| Image Classification |  Data Visualization |
+|    Medical Imaging   |      Statistics     |
+|     Deep Learning    | Feature Engineering |
+
+---
+
+## 📌 Featured Work
 
 ### 🤖 Machine Learning Bootcamp
 
-A collection of my hands-on work while learning Machine Learning, including:
+A collection of hands-on projects and experiments as I develop my Machine Learning skills:
 
 * Data preprocessing
 * Exploratory Data Analysis
-* Regression
-* Classification
+* Regression and classification
 * Model evaluation
 * Scikit-learn experiments
 
-🔗 **Repository:** [Machine-Learning-Bootcamp](https://github.com/farhanuallah3/Machine-Learning-Bootcamp)
-
----
+🔗 **Repository:** [Machine-Learning-Bootcamp](https://github.com/farhanullah3/Machine-Learning-Bootcamp)
 
 ### 🧠 Computer Vision & Deep Learning
 
-Currently exploring **CNN architectures and image classification**, with a particular interest in applying deep learning to real-world and medical imaging problems.
+Exploring CNN architectures and image classification, with a particular interest in real-world and medical imaging applications.
 
 ### ⚡ AI & Agentic Systems
 
-Exploring how **LLMs, AI agents, automation and tool-use** can be combined to build useful software systems.
-
-Technologies I'm exploring include:
-
-`LLMs` · `RAG` · `Agents` · `n8n` · `MCP` · `Ollama`
+Exploring how LLMs, AI agents, automation, and tool use can be combined to build practical software systems.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanuallah3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanuallah3&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanullah3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanullah3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanuallah3&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=farhanullah3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanuallah3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanullah3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
-# 📈 My Learning Journey
+## 📈 My Learning Journey
 
 ```text
 Software Engineering
@@ -171,37 +182,33 @@ Software Engineering
 
 ---
 
-# 🎯 2026–2027 Goals
+## 🎯 2026–2027 Goals
 
-* [ ] Strengthen Python & advanced Python
+* [ ] Strengthen Python and advanced Python
 * [ ] Build strong Machine Learning fundamentals
 * [ ] Learn Deep Learning with TensorFlow/Keras
 * [ ] Build Computer Vision projects
 * [ ] Explore Medical AI research
 * [ ] Build practical LLM applications
 * [ ] Develop Agentic AI systems
-* [ ] Contribute to Open Source
-* [ ] Publish meaningful research/projects
+* [ ] Contribute to open source
+* [ ] Publish meaningful research and projects
 * [ ] Land an ML/AI engineering opportunity 🚀
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
-<img src="https://img.shields.io/badge/LinkedIn-Farhan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/farhanuallah3">
-<img src="https://img.shields.io/badge/GitHub-farhanuallah3-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:farhanllahqasim@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/farhanullah3">
+    <img src="https://img.shields.io/badge/GitHub-farhanullah3-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:farhanqasim03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
