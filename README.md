@@ -1,4 +1,4 @@
-````markdown
+
 <!-- Animated Terminal Banner -->
 <p align="center">
   <img
@@ -17,20 +17,6 @@
 </p>
 
 ---
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│  farhan@github:~$ whoami                                  │
-│                                                           │
-│  Name      : Farhan Ullah                                 │
-│  Education : BS Software Engineering                     │
-│  Focus     : AI / Machine Learning                       │
-│  Location  : Pakistan                                     │
-│  Status    : Building and experimenting                   │
-│                                                           │
-│  "Building skills one experiment at a time."              │
-└───────────────────────────────────────────────────────────┘
-````
 
 ### `farhan@github:~$ cat about.txt`
 
