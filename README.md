@@ -17,6 +17,20 @@
 
 ---
 
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  farhan@github:~$ whoami                                    │
+│                                                             │
+│  Name      : Farhan Ullah                                   │
+│  Role      : BS Software Engineering Student               │
+│  Focus     : Artificial Intelligence & Machine Learning     │
+│  Status    : Learning, Building & Experimenting             │
+│  Location  : Pakistan                                       │
+│                                                             │
+│  "Building skills one experiment at a time."                │
+└─────────────────────────────────────────────────────────────┘
+````
+
 ### `farhan@github:~$ cat about.txt`
 
 I'm a Software Engineering student interested in **AI, Machine Learning, and intelligent software systems**.
@@ -73,6 +87,17 @@ echo "[+] Building practical AI projects"
   <img src="https://streak-stats.demolab.com?user=farhanullah3&theme=dark&hide_border=true&background=020402&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub contribution streak" />
 </p>
 
+### `farhan@github:~$ cat roadmap.txt`
+
+```text
+[IN PROGRESS] Python & Data Analysis
+[IN PROGRESS] Machine Learning
+[IN PROGRESS] Model Evaluation & Optimization
+[NEXT]        Deep Learning
+[NEXT]        Computer Vision
+[EXPLORING]   Generative AI & AI Agents
+```
+
 ### `farhan@github:~$ connect --with-me`
 
 <p align="left">
@@ -82,10 +107,10 @@ echo "[+] Building practical AI projects"
   <a href="https://www.kaggle.com/farhankhanmarwat">
     <img src="https://img.shields.io/badge/Kaggle-020402?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
   </a>
-  <a href="https://www.linkedin.com/in/farhan-ullah-441a85335/">
+  <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
     <img src="https://img.shields.io/badge/LinkedIn-020402?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="mailto:farhanllahqasim@gmail.com">
+  <a href="mailto:farhanqasim03@gmail.com">
     <img src="https://img.shields.io/badge/Email-020402?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
