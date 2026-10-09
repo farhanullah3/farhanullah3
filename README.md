@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/farhan-3qasim">
-    <img src="https://img.shields.io/github/followers/farhan-3qasim?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  <a href="https://github.com/farhanuallah3">
+    <img src="https://img.shields.io/github/followers/farhanuallah3?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  <a href="https://github.com/farhan-3qasim">
-    <img src="https://img.shields.io/github/stars/farhan-3qasim?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+  <a href="https://github.com/farhanuallah3">
+    <img src="https://img.shields.io/github/stars/farhanuallah3?label=Stars&style=for-the-badge&logo=github&color=yellow" />
   </a>
   <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,9 +39,9 @@ Machine Learning        ███████████████░░░�
 Deep Learning           ████████████░░░░░░░  Learning
 Python                  ████████████████░░░░  Improving
 Computer Vision         ██████████░░░░░░░░░░  Exploring
-Generative AI            ██████████░░░░░░░░░░  Exploring
-Agentic AI               █████████░░░░░░░░░░░  Exploring
-React.js                 █████████████░░░░░░░  Foundation
+Generative AI           ██████████░░░░░░░░░░  Exploring
+Agentic AI              █████████░░░░░░░░░░░  Exploring
+React.js                █████████████░░░░░░░  Foundation
 ```
 
 > My goal is not just to train models, but to understand how AI systems can be integrated into real-world products.
@@ -64,7 +64,7 @@ React.js                 █████████████░░░░░�
 
 **Learning:**
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `GenAI` · `AgenticAI`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `GenAI` · `Agentic AI`
 
 ### 🧠 Generative & Agentic AI
 
@@ -86,28 +86,6 @@ React.js                 █████████████░░░░░�
 
 ---
 
-# 🔬 Areas of Interest
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | 🧠 Machine Learning |
-| :------------------------: | :-----------------: |
-|        Generative AI       | Predictive Modeling |
-|      LLM Applications      |    Classification   |
-|          AI Agents         |      Regression     |
-|         Agentic AI         |   Model Evaluation  |
-
-|  👁️ Computer Vision |       📊 Data       |
-| :------------------: | :-----------------: |
-|         CNNs         |    Data Analysis    |
-| Image Classification |  Data Visualization |
-|    Medical Imaging   |      Statistics     |
-|     Deep Learning    | Feature Engineering |
-
-</div>
-
----
-
 # 📌 Featured Work
 
 ### 🤖 Machine Learning Bootcamp
@@ -121,16 +99,13 @@ A collection of my hands-on work while learning Machine Learning, including:
 * Model evaluation
 * Scikit-learn experiments
 
-🔗 **Repository:**
-[Machine-Learning-Bootcamp](https://github.com/farhan-3qasim/Machine-Learning-Bootcamp)
+🔗 **Repository:** [Machine-Learning-Bootcamp](https://github.com/farhanuallah3/Machine-Learning-Bootcamp)
 
 ---
 
 ### 🧠 Computer Vision & Deep Learning
 
 Currently exploring **CNN architectures and image classification**, with a particular interest in applying deep learning to real-world and medical imaging problems.
-
----
 
 ### ⚡ AI & Agentic Systems
 
@@ -145,12 +120,12 @@ Technologies I'm exploring include:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhan-3qasim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-3qasim&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanuallah3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanuallah3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhan-3qasim&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=farhanuallah3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -158,7 +133,7 @@ Technologies I'm exploring include:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhan-3qasim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanuallah3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -219,11 +194,11 @@ Software Engineering
 <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/farhanullah3">
-<img src="https://img.shields.io/badge/GitHub-farhan--3qasim-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/farhanuallah3">
+<img src="https://img.shields.io/badge/GitHub-farhanuallah3-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:farhanqasim03@gmail.com">
+<a href="mailto:farhanllahqasim@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
