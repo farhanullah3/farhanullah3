@@ -8,23 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=39FF88&center=true&vCenter=true&width=650&lines=%24+initializing+AI%2FML+journey...;%24+loading+machine+learning+models...;%24+exploring+intelligent+systems...;%24+status%3A+learning+%7C+building+%7C+improving" alt="Terminal typing animation"/>
 </p>
 
-```text
-┌───────────────────────────────────────────────────────────┐
-│  ●  ●  ●          FARHAN@GITHUB: ~                         │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│   USER       : Farhan Ullah                               │
-│   ROLE       : Software Engineering Student               │
-│   UNIVERSITY : Islamia College University, Peshawar       │
-│   FOCUS      : Machine Learning / Artificial Intelligence │
-│   INTERESTS  : Deep Learning, GenAI, Agentic AI            │
-│   STATUS     : Open to internships & collaboration        │
-│                                                           │
-│   "Turning curiosity into code, and code into solutions." │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
 <p align="center">
   <a href="https://github.com/farhanullah3"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=39FF88" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=39FF88" alt="LinkedIn"/></a>
@@ -71,15 +54,6 @@ I enjoy understanding how intelligent systems work and turning what I learn into
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="TensorFlow and Scikit-learn"/>
 </p>
-
-```text
-DATA & ML LIBRARIES
-├── NumPy
-├── Pandas
-├── Matplotlib
-├── Scikit-learn
-└── TensorFlow / Keras
-```
 
 **`/generative-ai`**
 
@@ -148,22 +122,6 @@ Exploring LLM-based applications, intelligent model selection, and AI agents tha
 
 ---
 
-## `farhan@github:~$ ./current_focus.sh`
-
-```text
-[ RUNNING ]  Python & ML fundamentals
-[ RUNNING ]  Statistics and probability
-[ LEARNING ] Deep Learning with TensorFlow/Keras
-[ EXPLORING ] Computer Vision & Medical AI
-[ EXPLORING ] Generative AI & LLMs
-[ EXPLORING ] Agentic AI & automation
-
-NEXT MILESTONE:
-Build useful projects. Understand the results. Repeat.
-```
-
----
-
 ## `farhan@github:~$ github --stats`
 
 <p align="center">
@@ -177,27 +135,12 @@ Build useful projects. Understand the results. Repeat.
 
 ---
 
-## `farhan@github:~$ cat roadmap.txt`
-
-```text
-[01] Strengthen Python and problem-solving
-[02] Master ML fundamentals and model evaluation
-[03] Build deep learning and computer vision projects
-[04] Explore Medical AI research
-[05] Develop practical LLM applications
-[06] Learn to build reliable AI agents
-[07] Contribute to open source
-[08] Pursue ML/AI internships and research
-```
-
----
-
 ## `farhan@github:~$ connect --with-me`
 
 ```bash
 github   -> https://github.com/farhanullah3
-linkedin -> https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/
-email    -> farhanqasim03@gmail.com
+linkedin -> https://www.linkedin.com/in/farhan-ullah-441a85335/
+email    -> farhanllahqasim@gmail.com
 ```
 
 <p align="center">
