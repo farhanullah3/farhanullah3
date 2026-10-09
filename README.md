@@ -86,35 +86,11 @@ React.js                █████████████░░░░░�
 
 ---
 
-## 🔬 Areas of Interest
-
-| 🤖 Artificial Intelligence | 🧠 Machine Learning |
-| :------------------------: | :-----------------: |
-|        Generative AI       | Predictive Modeling |
-|      LLM Applications      |    Classification   |
-|          AI Agents         |      Regression     |
-|         Agentic AI         |   Model Evaluation  |
-
-|  👁️ Computer Vision |       📊 Data       |
-| :------------------: | :-----------------: |
-|         CNNs         |    Data Analysis    |
-| Image Classification |  Data Visualization |
-|    Medical Imaging   |      Statistics     |
-|     Deep Learning    | Feature Engineering |
-
----
-
 ## 📌 Featured Work
 
 ### 🤖 Machine Learning Bootcamp
 
 A collection of hands-on projects and experiments as I develop my Machine Learning skills:
-
-* Data preprocessing
-* Exploratory Data Analysis
-* Regression and classification
-* Model evaluation
-* Scikit-learn experiments
 
 🔗 **Repository:** [Machine-Learning-Bootcamp](https://github.com/farhanullah3/Machine-Learning-Bootcamp)
 
@@ -146,54 +122,6 @@ Exploring how LLMs, AI agents, automation, and tool use can be combined to build
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=farhanullah3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
-
----
-
-## 📈 My Learning Journey
-
-```text
-Software Engineering
-        │
-        ▼
-   Python & C++
-        │
-        ▼
-   Data Analysis
-        │
-        ▼
- Machine Learning
-        │
-        ▼
-  Deep Learning
-        │
-        ├──────────────► Computer Vision
-        │
-        ▼
-   Generative AI
-        │
-        ▼
-    Agentic AI
-        │
-        ▼
- AI-powered Products
-```
-
-> **Learning → Building → Researching → Shipping**
-
----
-
-## 🎯 2026–2027 Goals
-
-* [ ] Strengthen Python and advanced Python
-* [ ] Build strong Machine Learning fundamentals
-* [ ] Learn Deep Learning with TensorFlow/Keras
-* [ ] Build Computer Vision projects
-* [ ] Explore Medical AI research
-* [ ] Build practical LLM applications
-* [ ] Develop Agentic AI systems
-* [ ] Contribute to open source
-* [ ] Publish meaningful research and projects
-* [ ] Land an ML/AI engineering opportunity 🚀
 
 ---
 
