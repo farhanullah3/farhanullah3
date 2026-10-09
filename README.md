@@ -1,154 +1,231 @@
-# 👋 Hi, I'm Farhan Ullah
+# `> whoami` — Farhan Ullah
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Farhan%20Ullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20AI%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:22c55e&height=200&section=header&text=Farhan%20Ullah&fontSize=42&fontColor=39FF88&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descSize=18&descColor=dcfce7&descAlignY=58" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Machine+Learning+%7C+Deep+Learning;Exploring+Generative+AI+%26+Agentic+AI;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/farhanullah3">
-    <img src="https://img.shields.io/github/followers/farhanullah3?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/farhanullah3">
-    <img src="https://img.shields.io/github/stars/farhanullah3?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+    <img src="https://img.shields.io/badge/GitHub-farhanullah3-0D1117?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:farhanqasim03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF88" alt="Email"/>
   </a>
 </p>
 
----
+```bash
+┌──[farhan@github]─[~]
+└─$ cat about_me.txt
 
-## 🧑‍💻 About Me
-
-🎓 **Software Engineering Student** at **Islamia College University, Peshawar**
-
-🤖 Aspiring **Machine Learning / AI Engineer**
-
-🔬 Interested in **Deep Learning, Computer Vision, Generative AI & Agentic AI**
-
-💡 I enjoy turning ideas into **AI-powered applications and practical software systems**
-
-🤝 Open to **ML/AI internships, research opportunities, collaborations and open-source projects**
-
----
-
-## 🚀 What I'm Currently Learning
-
-```text
-Machine Learning        ███████████████░░░░░  Learning
-Deep Learning           ████████████░░░░░░░  Learning
-Python                  ████████████████░░░░  Improving
-Computer Vision         ██████████░░░░░░░░░░  Exploring
-Generative AI           ██████████░░░░░░░░░░  Exploring
-Agentic AI              █████████░░░░░░░░░░░  Exploring
-React.js                █████████████░░░░░░░  Foundation
+Name       : Farhan Ullah
+Education  : BS Software Engineering
+University : Islamia College University, Peshawar
+Focus      : Machine Learning | Artificial Intelligence
+Interests  : Deep Learning, Computer Vision, GenAI, Agentic AI
+Mindset    : Learn continuously. Build practically.
+Status     : Open to internships, research & collaboration.
 ```
 
-> My goal is not just to train models, but to understand how AI systems can be integrated into real-world products.
+---
+
+## `01.` About Me
+
+Hey! I'm Farhan, a Software Engineering student passionate about building intelligent systems and practical AI-powered applications.
+
+* 🤖 Exploring **Machine Learning, Deep Learning, and Generative AI**
+* 📊 Strengthening my Python, statistics, probability, and ML fundamentals
+* 👁️ Interested in Computer Vision and Medical AI research
+* ⚡ Exploring LLM applications, AI agents, and automation
+* 🌐 Interested in connecting AI models with real-world software products
+* 🤝 Open to internships, research opportunities, open-source contributions, and collaborations
+
+> `// My goal: understand the technology, build useful things, and keep improving.`
 
 ---
 
-## 🛠️ Tech Stack
+## `02.` Tech Stack
 
-### 🐍 Programming
+### `> languages`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript&theme=dark" alt="Python, C++, JavaScript"/>
 </p>
 
-### 🤖 Machine Learning & AI
+### `> machine_learning_and_data`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch"/>
 </p>
-
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow/Keras`
-
-**Currently learning:** Machine Learning · Deep Learning · Computer Vision · Generative AI · Agentic AI
-
-### 🧠 Generative & Agentic AI
-
-`LLMs` · `Prompt Engineering` · `RAG` · `AI Agents` · `n8n` · `MCP` · `Ollama`
-
-### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=39FF88" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-### 🧰 Tools & Development
+### `> genai_and_automation`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+  <img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logo=openai&logoColor=39FF88" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=bookstack&logoColor=39FF88" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=flat-square&logo=probot&logoColor=39FF88" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=39FF88" alt="n8n"/>
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=protocols&logoColor=39FF88" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=39FF88" alt="Ollama"/>
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Docker` · `Jupyter` · `Kaggle` · `Google Colab`
+### `> web_and_development_tools`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode,docker,linux&theme=dark" alt="React, HTML, CSS, Tailwind, Git, GitHub, VS Code, Docker, Linux"/>
+</p>
+
+**Currently developing:** Python · ML fundamentals · Model evaluation · Deep Learning · Computer Vision · LLM applications
+
+*Note: Tools and topics listed here reflect a mix of hands-on experience and ongoing exploration.*
 
 ---
 
-## 📌 Featured Work
+## `03.` Featured Projects
 
-### 🤖 Machine Learning Bootcamp
+### `01 / Machine Learning Bootcamp`
 
-A collection of hands-on projects and experiments as I develop my Machine Learning skills:
+A hands-on collection of Machine Learning experiments and learning projects.
 
-🔗 **Repository:** [Machine-Learning-Bootcamp](https://github.com/farhanullah3/Machine-Learning-Bootcamp)
+* Data preprocessing and exploratory data analysis
+* Regression and classification
+* Model training and evaluation
+* Experiments with Scikit-learn
 
-### 🧠 Computer Vision & Deep Learning
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Jupyter`
 
-Exploring CNN architectures and image classification, with a particular interest in real-world and medical imaging applications.
-
-### ⚡ AI & Agentic Systems
-
-Exploring how LLMs, AI agents, automation, and tool use can be combined to build practical software systems.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanullah3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanullah3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanullah3&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanullah3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/farhan-ullah-441a85335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://github.com/farhanullah3/Machine-Learning-Bootcamp">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=39FF88" alt="View Machine Learning Bootcamp"/>
   </a>
+</p>
+
+### `02 / Computer Vision & Deep Learning`
+
+Exploring CNN architectures, feature maps, and image classification, with an interest in applying deep learning to medical imaging.
+
+**Stack:** `Python` `TensorFlow/Keras` `CNNs` `Google Colab`
+
+**Repository:** Add your public project link when the work is ready to showcase.
+
+### `03 / AI-Powered Applications`
+
+Exploring practical ways to combine LLMs, model selection, automation, and AI agents to solve real-world problems.
+
+**Areas:** `LLMs` `Agentic AI` `Automation` `APIs`
+
+**Repository:** Add your public project link when the implementation is available.
+
+---
+
+## `04.` Current Focus
+
+```text
+[ACTIVE]   Python & Machine Learning fundamentals
+[ACTIVE]   Statistics and Probability for ML
+[LEARNING] Deep Learning with TensorFlow/Keras
+[EXPLORING] Computer Vision & Medical AI
+[EXPLORING] LLMs, RAG & Agentic AI
+[BUILDING] Practical AI-powered applications
+```
+
+---
+
+## `05.` GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanullah3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=C9D1D9&icon_color=39FF88&ring_color=39FF88" alt="Farhan's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanullah3&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=C9D1D9" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farhanullah3&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanullah3&bg_color=0D1117&color=39FF88&line=22C55E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+</p>
+
+---
+
+## `06.` Learning Roadmap
+
+```text
+Software Engineering
+        |
+        v
+ Python + Problem Solving
+        |
+        v
+ Data Analysis + Statistics
+        |
+        v
+ Machine Learning
+        |
+        v
+ Deep Learning + Computer Vision
+        |
+        +-------> Medical AI Research
+        |
+        v
+ Generative AI + LLM Applications
+        |
+        v
+ Agentic AI + Intelligent Products
+```
+
+---
+
+## `07.` Goals
+
+* [ ] Strengthen Python and problem-solving skills
+* [ ] Build a solid foundation in Machine Learning
+* [ ] Improve statistics and probability for ML
+* [ ] Develop meaningful Deep Learning projects
+* [ ] Explore Computer Vision and Medical AI
+* [ ] Build useful LLM-powered applications
+* [ ] Learn to design reliable AI agents
+* [ ] Contribute to open-source projects
+* [ ] Pursue ML/AI internships and research opportunities
+
+---
+
+## `08.` Let's Connect
+
+<p align="center">
   <a href="https://github.com/farhanullah3">
-    <img src="https://img.shields.io/badge/GitHub-farhanullah3-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-39FF88?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
   </a>
-  <a href="mailto:farhanllahqasim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/farhan-qasim-marwat-441a85335/">
+    <img src="https://img.shields.io/badge/LinkedIn-39FF88?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:farhanqasim03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-39FF88?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
   </a>
 </p>
 
----
-
 <p align="center">
-
-### 💭 Building today. Learning every day. Engineering intelligent systems for tomorrow.
-
-⭐ If you find something useful here, consider starring the repository!
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:064e3b,100:020617&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer" />
+  <code>while (learning) { build(); improve(); repeat(); }</code>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile. Keep building! 💚</i>
 </p>
